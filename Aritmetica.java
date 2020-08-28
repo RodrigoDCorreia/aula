@@ -14,10 +14,10 @@ public class Aritmetica {
 		// da entrada padrão (System.in);
 		Scanner entrada = new Scanner(System.in);
 		// Carregar esses números como inteiros
-		System.out.print("Insira o 1º número: ");
+		System.out.print("Insira o primeiro numero: ");
 		n1 = entrada.nextInt();
 		
-		System.out.print("Insira o 2º número: ");
+		System.out.print("Insira o segundo numero: ");
 		n2 = entrada.nextInt();
 		
 		entrada.close();
